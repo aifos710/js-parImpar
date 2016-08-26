@@ -8,3 +8,5 @@ Escribir un algoritmo que indique al usuario si el número es par o impar.
   1. SI imprimir par
   2. NO imprimir impar
 4. Fin
+
+![diagrama2](http://i67.tinypic.com/10qh3ra.jpg)
